@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meetali</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align= “right” alt= “coding” width=“400” src= “![image](https://github.com/meetaliverma/meetaliverma/assets/72468930/a6a4dc64-b3a8-46f9-84c9-d8afde9bd0ff)
-”>
+ ![image](https://github.com/meetaliverma/meetaliverma/assets/72468930/a6a4dc64-b3a8-46f9-84c9-d8afde9bd0ff)
+
 <p align="left"> <img src = "https://komarev.com/ghpvc/?username=meetaliverma&label=Profile%20views&color=0e75b6&style=flat" alt="meetaliverma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetaliverma" alt="meetaliverma" /></a> </p>
