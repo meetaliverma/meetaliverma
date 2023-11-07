@@ -1,3 +1,5 @@
+![logo](https://github.com/meetaliverma/meetaliverma/blob/main/github%20banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Meetali</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
